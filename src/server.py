@@ -26,7 +26,7 @@ def sub(a: int, b: int):
 
 @mcp.tool()
 def mul(a: int, b: int):
-    """Multiple 2 numbers"""
+    """Multiply 2 numbers"""
     return a * b, "*"
 
 
